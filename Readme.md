@@ -1,0 +1,1 @@
+This program calculate and show number of inputs.
